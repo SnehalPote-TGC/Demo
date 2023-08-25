@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-09T10:08:35 IST" name="Default suite" finished-at="2023-08-09T10:09:17 IST" duration-ms="42180">
+    <groups>
+    </groups>
+    <test started-at="2023-08-09T10:08:35 IST" name="Default test" finished-at="2023-08-09T10:09:17 IST" duration-ms="42180">
+      <class name="com.LoginPageFront">
+        <test-method signature="TestLogin(java.lang.String,java.lang.String)[pri:0, instance:com.LoginPageFront@45099dd3]" started-at="2023-08-09T10:08:37 IST" name="TestLogin" data-provider="getData" finished-at="2023-08-09T10:08:50 IST" duration-ms="13155" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GOP_IN501]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tgc@12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method signature="TestLogin(java.lang.String,java.lang.String)[pri:0, instance:com.LoginPageFront@45099dd3]" started-at="2023-08-09T10:08:50 IST" name="TestLogin" data-provider="getData" finished-at="2023-08-09T10:08:58 IST" duration-ms="7850" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GOP_IN401]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tgc@12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method signature="TestLogin(java.lang.String,java.lang.String)[pri:0, instance:com.LoginPageFront@45099dd3]" started-at="2023-08-09T10:08:58 IST" name="TestLogin" data-provider="getData" finished-at="2023-08-09T10:09:07 IST" duration-ms="8588" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GOP_IN01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tgc@12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method signature="TestLogin(java.lang.String,java.lang.String)[pri:0, instance:com.LoginPageFront@45099dd3]" started-at="2023-08-09T10:09:07 IST" name="TestLogin" data-provider="getData" finished-at="2023-08-09T10:09:17 IST" duration-ms="10504" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+      </class> <!-- com.LoginPageFront -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
